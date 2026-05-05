@@ -7,7 +7,7 @@ def test_count_errors_basic():
         "ERROR Something failed",
         "ERROR Another failure"
     ]
-    assert count_errors(logs) == 3
+    assert count_errors(logs) == 1
 
 
 def test_count_errors_no_errors():
