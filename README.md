@@ -9,4 +9,4 @@
 - Detects test failures and stops build
 - Sends email notifications on failure
 - Demonstrates real CI/CD workflow
-- Built for hands-on DevOps practice
+- Built for hands-on DevOps practice..
