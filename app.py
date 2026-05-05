@@ -14,7 +14,7 @@ def error_rate(log_lines):
         return 0
 
     errors = count_errors(log_lines)
-    return errors / total
+    return float(errors) / float(total)
 
 
 if __name__ == "__main__":
